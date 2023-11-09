@@ -1,9 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/",
+  website: "https://lemuria-blog.deno.dev",
   author: "Ronald Choque",
-  desc: "Blog de las tonterias de Ronald",
+  desc: "Blog de las tonterías de Ronald",
   title: "Lemuria",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
